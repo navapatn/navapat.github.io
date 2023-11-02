@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Navapat Nananukul or you can call me Pat. I am currently working as a student reseacher at USC Information Sciences Institute, under the advise of [Prof. Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). I am a junior researcher in the field of _Aritificial Intelligence_, I am motivated by its capacity to emulate human-like behaviors that we, as humans, teach these machines. My research lies at the intersection of two complementary fields _Large Language models_ and _Knowledge Graph_, both of which are crucial for enabling machines to communicate, interact, and reason in ways that are remarkably human
+I am Navapat Nananukul or you can call me Pat. I am currently working as a student reseacher at USC Information Sciences Institute, under the advise of [Prof. Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). I am a junior researcher in the field of _Aritificial Intelligence_, I am motivated by its capacity to emulate human-like behaviors that we, as humans, teach these machines. My research lies at the intersection of two complementary fields _Large Language models_ and _Knowledge Graph_, both of which are crucial for enabling machines to communicate, interact, and reason in ways that are remarkably human.
+
+Recently, I have been working on specific topics including (1) Knowledge graph ontology design for LLMs hallucination (2) How to prompt efficiently (cost, performance) in unsupervised entity resolution task (3) Block prioritization for unsupervised entity resolution in the era of LLMs.
 
 About me
 ======
