@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Navapat Nananukul or Pat. I am working as a student reseacher at USC Information Sciences Institute under [prof_mayank](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). 
+I am Navapat Nananukul or Pat. I am working as a student reseacher at USC Information Sciences Institute under [Prof. Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). 
 
 About me
 ======
