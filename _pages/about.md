@@ -13,8 +13,8 @@ I am Navapat Nananukul or you can call me Pat. I am currently working as a stude
 My reseach interest questions mainly include:
 
 - Knowledge graph: How to build human intelligence structure to improve machine learning or language model.
-- How to reduce false information, hallucination, bias in language model.
 - Application of knowledge graph to language models i.e. Question-answering, Commonsense-reasoning, etc.
+- How to reduce false information, hallucination, bias in language model.
 
 
 
