@@ -17,7 +17,7 @@ My reseach interest questions mainly include:
 
 Recently, I have been working on topics that allow human to understand state-of-the-art LLMs and utilize them efficeintly. Specifically, **(1) Knowledge graph ontology design for LLMs hallucination** aimed to capture hallucination we see from prompts and answers from large language model, and systemetically store into a knowledge graph structure so that we can utilize this data and potentially improve or intervene prompting processes to reduce hallucination, bias, etc. Moreover, I started working on the topic of knowledge graph building. The works include **(2) Cost-aware prompt engineering in unsupervised entity resolution** which aimed to build and gauge the performance of state-of-the-art LLMs in one of the key steps of knowledge graph building process "Entity resolution (ER)". Lastly, I am working on **(3) Blocks prioritization for unsupervised entity resolution in the era of LLMs** where we propose algorithm that bridge the gap between LLMs and entity resolution while also considering cost and maintaining great ER performance.
 
-My ongoing research list is available in this link: [Ongoing Research](https://navapatn.github.io/talks/)
+My ongoing research list is available in this link: [Current Research](https://navapatn.github.io/talks/)
 
 About me
 ======
