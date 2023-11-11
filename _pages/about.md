@@ -15,24 +15,19 @@ My reseach interest questions mainly include:
 - How to build human intelligence structure to improve machine learning or language model.
 - How to reduce false information, hallucination, bias in language model.
 
-Recently, I have been working on topics that allow human to understand state-of-the-art LLMs and utilize them efficeintly. Specifically, **(1) Knowledge graph ontology design for LLMs hallucination** aimed to capture hallucination we see from prompts and answers from large language model, and systemetically store into a knowledge graph structure so that we can utilize this data and potentially improve or intervene prompting processes to reduce hallucination, bias, etc. Moreover, I started working on the topic of knowledge graph building. The works include **(2) Cost-aware prompt engineering in unsupervised entity resolution** which aimed to build and gauge the performance of state-of-the-art LLMs in one of the key steps of knowledge graph building process "Entity resolution (ER)". Lastly, I am working on **(3) Blocks prioritization for unsupervised entity resolution in the era of LLMs** where we propose algorithm that bridge the gap between LLMs and entity resolution while also considering cost and maintaining great ER performance.
 
-My ongoing research list is available in this link: [Current Research](https://navapatn.github.io/talks/)
 
 About me
 ======
-Introduction ---
 
 I received my Master's degree from **USC Viterbi Department of Computer Science**. In the last semester, I was fortunate to be advised by [Prof. Mohammad Rostami](https://viterbi.usc.edu/directory/faculty/Rostami/Mohammad) who gave me the first official research experience in the CS field. We worked on improving domain adpatation, image segmentation performance for medical MRI scan images. I received my Bachelor's degree in Computer Science from Chulalongkorn University with class honor.
 
-Getting started
+Research
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+Recently, I have been working on topics that allow human to understand state-of-the-art LLMs and utilize them efficeintly. Specifically, **(1) Knowledge graph ontology design for LLMs hallucination** aimed to capture hallucination we see from prompts and answers from large language model, and systemetically store into a knowledge graph structure so that we can utilize this data and potentially improve or intervene prompting processes to reduce hallucination, bias, etc. Moreover, I started working on the topic of knowledge graph building. The works include **(2) Cost-aware prompt engineering in unsupervised entity resolution** which aimed to build and gauge the performance of state-of-the-art LLMs in one of the key steps of knowledge graph building process "Entity resolution (ER)". Lastly, I am working on **(3) Blocks prioritization for unsupervised entity resolution in the era of LLMs** where we propose algorithm that bridge the gap between LLMs and entity resolution while also considering cost and maintaining great ER performance.
+
+My ongoing research list is available in this link: [Current Research](https://navapatn.github.io/talks/)
 
 Site-wide configuration
 ------
