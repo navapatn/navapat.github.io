@@ -21,7 +21,7 @@ My reseach interest questions mainly include:
 About me
 ======
 
-I received my Master's degree from **USC Viterbi Department of Computer Science**. In the last semester, I was fortunate to be advised by [Prof. Mohammad Rostami](https://viterbi.usc.edu/directory/faculty/Rostami/Mohammad) who gave me the first official research experience in the CS field. We worked on improving domain adpatation, image segmentation performance for medical MRI scan images. I received my Bachelor's degree in Computer Science from Chulalongkorn University with class honor.
+I received my Master's degree from **USC Viterbi Department of Computer Science**. In the last semester, I was fortunate to be advised by [Prof. Mohammad Rostami](https://viterbi.usc.edu/directory/faculty/Rostami/Mohammad) who gave me the first official research experience in the CS field. We worked on improving domain adpatation, image segmentation performance for medical MRI scan images. I received my Bachelor's degree in Computer Science from Chulalongkorn University with a class honor.
 
 Research
 ======
