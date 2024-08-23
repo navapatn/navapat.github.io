@@ -1,7 +1,11 @@
 ---
-title: "Customer Analytics"
-excerpt: "Built a prediction model using multinomial logistic regression and linear regression to predict price elasticity prediction<br/>"
+title: "Parkinson’s Disease Detection using CNN-LSTM Model for Time-series Keystroke Data"
+excerpt: 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+• Proposed a CNN-LSTM model that outperforms baseline models, including SqueezeNet, MobileNet, and AlexNet,
+in predicting Parkinson’s disease.
+• Proposed a solution for imbalanced data by performing time-series subsequence undersampling, achieving better
+performance compared to SMOTE.
