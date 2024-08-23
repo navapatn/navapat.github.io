@@ -1,7 +1,7 @@
 ---
 title: "How does prompt engineering affect ChatGPT performance on unsupervised entity resolution?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 'https://arxiv.org/abs/2310.06174'
 excerpt: ''
 date: 2023-10-01
 venue: 'arXiv preprint'
