@@ -1,13 +1,13 @@
 ---
-title: "Cost-efficient prompt engineering for unsupervised entity resolution in the product matching domain"
+title: ["Cost-efficient prompt engineering for unsupervised entity resolution in the product matching domain"](https://link.springer.com/article/10.1007/s44163-024-00159-8)
 collection: publications
-permalink: 'https://arxiv.org/abs/2310.06174'
-excerpt: ''
+permalink: 
+excerpt: 
 date: 2024-08-16
 venue: 'Discover Artificial Intelligence'
-paperurl: 'https://arxiv.org/abs/2310.06174'
+paperurl: 'https://link.springer.com/article/10.1007/s44163-024-00159-8'
 citation: 
 ---
 
-[Download paper here](https://arxiv.org/abs/2310.06174)
+[Download paper here](https://link.springer.com/article/10.1007/s44163-024-00159-8)
 
