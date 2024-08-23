@@ -5,7 +5,7 @@ permalink:
 excerpt: 
 date: 2024-08-16
 venue: 'Discover Artificial Intelligence'
-paperurl: 
+paperurl: https://link.springer.com/article/10.1007/s44163-024-00159-8
 citation: N Nananukul, K Sisaengsuwanchai, M Kejriwal
 ---
 
