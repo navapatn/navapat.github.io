@@ -1,12 +1,12 @@
 ---
-title: "How does prompt engineering affect ChatGPT performance on unsupervised entity resolution?"
+title: "Cost-efficient prompt engineering for unsupervised entity resolution in the product matching domain"
 collection: publications
 permalink: 'https://arxiv.org/abs/2310.06174'
 excerpt: ''
-date: 2023-10-01
-venue: 'arXiv preprint'
+date: 2024-08-16
+venue: 'Discover Artificial Intelligence'
 paperurl: 'https://arxiv.org/abs/2310.06174'
-citation: 'Nananukul, N., Sisaengsuwanchai, K., Kejriwal, M. (2023). "How does prompt engineering affect ChatGPT performance on unsupervised entity resolution?" <i>arXiv preprint arXiv:2310.06174</i>. 1(1).'
+citation: 
 ---
 
 [Download paper here](https://arxiv.org/abs/2310.06174)
