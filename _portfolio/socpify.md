@@ -1,6 +1,6 @@
 ---
 title: "Socpify: Knowledge graph for European Soccer with News Clarification Feature"
-excerpt: "A multi-layer perceptron neural network that can classify hand-written digits with more than 90% accuracy.<br/>"
+excerpt: "A European Soccer Knowledge Graph<br/>"
 collection: portfolio
 ---
 
