@@ -23,7 +23,7 @@ My research focuses on evaluating and developing systems that utilize language m
 
 1. **Human-LLM Interaction:** Exploring how humans can effectively leverage LLMs and how, in turn, LLMs can benefit from human knowledge intervention.
 2. **Human Intelligence Structures:** Investigating methods to build human intelligence structures, such as Knowledge Graphs and ontologies, to enhance machine learning and language models.
-3. **Knowledge Graph Applications:** Applying Knowledge Graphs to language models in areas such as Question Answering, Commonsense Reasoning, and text generation.
+3. **Knowledge Graph Applications:** Applying Knowledge Graphs to language models in areas such as question answering, commonsense reasoning, and text generation.
 
 A full list of my publications is in [this link](https://navapatn.github.io/publications/)
 
