@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at USC Information Sciences Institute, where I am advised by [Prof. Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank) as part of the [AICS Group]([https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank](https://aicomplex.github.io/index.html)). I hold a Master's degree from USC Viterbi School of Engineering, Computer Science where I was fortunate to be advised by [Prof. Mohammad Rostami](https://viterbi.usc.edu/directory/faculty/Rostami/Mohammad), focusing on Computer Vision and Domain Adaptation. 
+I am a research assistant at USC Information Sciences Institute, where I am advised by [Prof. Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank) as part of the [AICS Group]([https://aicomplex.github.io/index.html]). I hold a Master's degree from USC Viterbi School of Engineering, Computer Science where I was fortunate to be advised by [Prof. Mohammad Rostami](https://viterbi.usc.edu/directory/faculty/Rostami/Mohammad), focusing on Computer Vision and Domain Adaptation. 
 
 My research interests include Generative AI, such as Large Language Models (LLMs), and knowledge representation methods, particularly Knowledge Graphs. I am passionate about utilzing these technologies to build AI systems that are not only high-performing but also robust and trustworthy. Additionally, I am interested in Computational Social Science, particularly in using data science techniques to uncover insights and in designing effective visualizations that convey these complex insights clearly and compellingly.
 
